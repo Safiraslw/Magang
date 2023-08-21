@@ -1,0 +1,22 @@
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.data_table{
+    padding: 10px;
+    box-shadow: 1px 3px 5px #aaaa;
+    border-radius: 5px;
+    font-size: none;
+}
+
+.data_table .btn{
+    padding: 5px 10px;
+    margin: 10px 3px 10px 0;
+    background-color: green;
+}
